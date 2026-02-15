@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="readme.md" />
+  </Folder>
+  <Project Path="Voting.DAL/Voting.DAL.csproj" Id="4aff49a3-5ea6-431d-a68a-489083c4a103" />
+  <Project Path="Voting.Services/Voting.Services.csproj" Id="a82c8839-9fdd-484e-85d7-82448f9c38bd" />
+  <Project Path="VotingApp/Voting.Web.API.csproj" />
+  <Project Path="VotingTests/VotingTests.csproj" Id="8bb8cd5f-61b5-43be-91f7-20a3691735a2" />
+</Solution>
